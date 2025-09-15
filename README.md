@@ -1,13 +1,13 @@
 # Hello, I'm Ashrith Velisoju! 👋
 
-## 🎓 About Me
 I'm a final-year **Computer Science Engineering** student with a deep passion for technology and innovation. My journey has been driven by curiosity and a strong desire to leverage cutting-edge technologies to solve real-world problems. As I transition from academics to the professional world, I'm eager to contribute to impactful projects that make a difference.
 
 ## 🚀 Expertise & Interests
-- **Software Development**: Full-stack web development with modern frameworks
-- **Artificial Intelligence & Machine Learning**: Research and implementation of AI solutions
-- **Data Analysis**: Extracting insights from complex datasets
-- **Research**: Contributing to academic and industry research projects
+
+• **Software Development**: Full-stack web development with modern frameworks
+• **Artificial Intelligence & Machine Learning**: Research and implementation of AI solutions
+• **Data Analysis**: Extracting insights from complex datasets
+• **Research**: Contributing to academic and industry research projects
 
 ## 💻 Technologies & Tools
 
@@ -55,6 +55,7 @@ I'm a final-year **Computer Science Engineering** student with a deep passion fo
 </div>
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ashrithvelisoju&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
@@ -62,60 +63,49 @@ I'm a final-year **Computer Science Engineering** student with a deep passion fo
 ## 🔥 Featured Projects
 
 ### 🤖 AI & Machine Learning
-- **Plant Disease Detection System** - Sustainable agriculture through AI-powered disease identification
-- **Prediction of Disease Outbreaks** - Data-driven analysis for public health insights
-- **Hand Gesture Recognition** - Computer vision application for human-computer interaction
+• **Plant Disease Detection System** - Sustainable agriculture through AI-powered disease identification
+• **Prediction of Disease Outbreaks** - Data-driven analysis for public health insights
+• **Hand Gesture Recognition** - Computer vision application for human-computer interaction
 
 ### 🌐 Web Development
-- **Digital Payment System (MERN Stack)** - Full-stack payment solution with modern web technologies
-- **Attendance Management using Face Recognition** - AI-integrated web application for automated attendance
-- **Calorie Advisor App** - Health-focused application with nutritional insights
+• **Digital Payment System (MERN Stack)** - Full-stack payment solution with modern web technologies
+• **Attendance Management using Face Recognition** - AI-integrated web application for automated attendance
+• **Calorie Advisor App** - Health-focused application with nutritional insights
 
 ### 🔐 Cybersecurity & Innovation
-- **Multi-stage DNA Cryptographic System** - Advanced encryption using genetic algorithms
-- **Cross-Language Code Vulnerability Analyzer** - Security tool for multi-language codebases
-- **Network Transformation Platform PoC** - Enterprise networking solution prototype
+• **Multi-stage DNA Cryptographic System** - Advanced encryption using genetic algorithms
+• **Cross-Language Code Vulnerability Analyzer** - Security tool for multi-language codebases
+• **Network Transformation Platform PoC** - Enterprise networking solution prototype
 
 ## 📈 Activity Graph
-[![Ashrith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashrithvelisoju&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashrith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashrithvelisoju&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🎯 Current Focus
-- 🔭 Working on advanced machine learning projects
-- 🌱 Learning cloud technologies and DevOps practices
-- 👯 Looking to collaborate on innovative AI/ML projects
-- 🤝 Open to internship and full-time opportunities
-- 💡 Passionate about contributing to open-source projects
+
+• 🔭 Working on advanced machine learning projects
+• 🌱 Learning cloud technologies and DevOps practices
+• 👯 Looking to collaborate on innovative AI/ML projects
+• 🤝 Open to internship and full-time opportunities
+• 💡 Passionate about contributing to open-source projects
 
 ## 🌟 Fun Facts About Me
-- 💻 I love solving complex algorithms and data structures problems
-- 🎮 Gaming enthusiast who enjoys strategic and puzzle games
-- 📚 Continuous learner who stays updated with latest tech trends
-- 🌍 Interested in how technology can solve global challenges
-- ⚡ Quick learner with a knack for adapting to new technologies
+
+• 💻 I love solving complex algorithms and data structures problems
+• 🎮 Gaming enthusiast who enjoys strategic and puzzle games
+• 📚 Continuous learner who stays updated with latest tech trends
+• 🌍 Interested in how technology can solve global challenges
+• ⚡ Quick learner with a knack for adapting to new technologies
 
 ## 📫 Let's Connect!
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashrithvelisoju)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashrithvelisoju@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ashrithvelisoju.github.io)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ashrithvelisoju)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashrithvelisoju/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashrithvelisoju@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ashrithvelisoju.github.io/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ashrithvelisoju)
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=ashrithvelisoju&color=blue&style=flat)
 
----
+### 💫 "Turning ideas into reality through code and innovation" 💫
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashrithvelisoju&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <h3>💫 "Turning ideas into reality through code and innovation" 💫</h3>
-</div>
-
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI%2FML+Enthusiast;Data+Science+Explorer;Problem+Solver;Tech+Innovator&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
-
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;AI/ML+Enthusiast;Problem+Solver;Tech+Explorer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
