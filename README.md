@@ -7,7 +7,7 @@
 > I'm a final-year **Computer Science Engineering** student with a deep passion for technology and innovation. My journey has been driven by curiosity and a strong desire to leverage cutting-edge technologies to solve real-world problems. As I transition from academics to the professional world, I'm eager to contribute to impactful projects that make a difference.
 
 <div align="center">
-  [![Resume/Portfolio](https://img.shields.io/badge/📄_Interactive_Resume-Download_Now-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://ashrithvelisoju.github.io/)
+  [Resume/Portfolio](https://img.shields.io/badge/📄_Interactive_Resume-Download_Now-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://ashrithvelisoju.github.io/)
 </div>
 
 ---
@@ -171,10 +171,10 @@
 ## 📫 Let's Connect!
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashrithvelisoju/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashrithvelisoju@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ashrithvelisoju.github.io/)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ashrithvelisoju)
+  [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashrithvelisoju/)
+  [Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashrithvelisoju@gmail.com)
+  [Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ashrithvelisoju.github.io/)
+  [LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ashrithvelisoju)
   
   <img src="https://komarev.com/ghpvc/?username=ashrithvelisoju&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
