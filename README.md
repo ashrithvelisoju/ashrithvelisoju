@@ -7,7 +7,9 @@
 > I'm a final-year **Computer Science Engineering** student with a deep passion for technology and innovation. My journey has been driven by curiosity and a strong desire to leverage cutting-edge technologies to solve real-world problems. As I transition from academics to the professional world, I'm eager to contribute to impactful projects that make a difference.
 
 <div align="center">
+  
 [![Resume/Portfolio](https://img.shields.io/badge/📄_Interactive_Resume-Download_Now-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://ashrithvelisoju.github.io/)
+
 </div>
 
 ---
@@ -35,64 +37,60 @@
 ### Languages
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img alt="SQL" src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ### Web Development
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### AI/ML & Data Science
 
 <p>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashrithvelisoju&show_icons=true&theme=radical" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrithvelisoju&theme=radical" />
+<p>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashrithvelisoju&show_icons=true&theme=tokyonight" />
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrithvelisoju&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrithvelisoju&layout=compact&theme=radical" />
-</p>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrithvelisoju&layout=compact&theme=tokyonight" />
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashrithvelisoju&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=ashrithvelisoju&theme=nord&column=7" />
 
 ---
 
@@ -106,9 +104,9 @@
 
 | Project | Description | Case Study | Demo |
 |---------|-------------|------------|------|
-| Plant Disease Detection System | Sustainable agriculture through AI-powered disease identification | [![Case Study](https://img.shields.io/badge/Case%20Study-View-blue)](https://github.com/ashrithvelisoju) | [![Demo](https://img.shields.io/badge/Demo-Live-green)](https://github.com/ashrithvelisoju) |
-| Prediction of Disease Outbreaks | Data-driven analysis for public health insights | [![Case Study](https://img.shields.io/badge/Case%20Study-View-blue)](https://github.com/ashrithvelisoju) | [![Demo](https://img.shields.io/badge/Demo-Live-green)](https://github.com/ashrithvelisoju) |
-| Hand Gesture Recognition | Computer vision application for human-computer interaction | [![Case Study](https://img.shields.io/badge/Case%20Study-View-blue)](https://github.com/ashrithvelisoju) | [![Demo](https://img.shields.io/badge/Demo-Live-green)](https://github.com/ashrithvelisoju) |
+| Plant Disease Detection System | Sustainable agriculture through AI-powered disease identification | <a href="#"><img alt="Case Study" src="https://img.shields.io/badge/📊_Case_Study-View-blue?style=for-the-badge" /></a> | <a href="#"><img alt="Demo" src="https://img.shields.io/badge/🎬_Demo-Watch-red?style=for-the-badge" /></a> |
+| Prediction of Disease Outbreaks | Data-driven analysis for public health insights | <a href="#"><img alt="Case Study" src="https://img.shields.io/badge/📊_Case_Study-View-blue?style=for-the-badge" /></a> | <a href="#"><img alt="Demo" src="https://img.shields.io/badge/🎬_Demo-Watch-red?style=for-the-badge" /></a> |
+| Hand Gesture Recognition | Computer vision application for human-computer interaction | <a href="#"><img alt="Case Study" src="https://img.shields.io/badge/📊_Case_Study-View-blue?style=for-the-badge" /></a> | <a href="#"><img alt="Demo" src="https://img.shields.io/badge/🎬_Demo-Watch-red?style=for-the-badge" /></a> |
 
 ### 🌐 Web Development
 
@@ -144,9 +142,7 @@
 
 ## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashrithvelisoju&theme=react-dark" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrithvelisoju&theme=tokyo-night" />
 
 ---
 
@@ -164,11 +160,11 @@
 
 Are you working on innovative projects that could change the world? I'm always looking for opportunities to collaborate on cutting-edge AI/ML projects, full-stack applications, and revolutionary tech solutions. Whether it's building the next big thing or solving complex problems, let's create something amazing together!
 
-<p align="center">
+<div align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/🚀_Open_for_Collaboration-Let's_Build_Something_Amazing!-brightgreen?style=for-the-badge" alt="Collaboration Invitation" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -183,7 +179,7 @@ Are you working on innovative projects that could change the world? I'm always l
 
 ## 📫 Let's Connect!
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/ashrithvelisoju/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -196,11 +192,11 @@ Are you working on innovative projects that could change the world? I'm always l
   <a href="https://leetcode.com/ashrithvelisoju">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ashrithvelisoju&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
