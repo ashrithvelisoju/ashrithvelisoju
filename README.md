@@ -7,7 +7,7 @@
 > I'm a final-year **Computer Science Engineering** student with a deep passion for technology and innovation. My journey has been driven by curiosity and a strong desire to leverage cutting-edge technologies to solve real-world problems. As I transition from academics to the professional world, I'm eager to contribute to impactful projects that make a difference.
 
 <div align="center">
-  [![Resume/Portfolio](https://img.shields.io/badge/📄_Interactive_Resume-Download_Now-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://ashrithvelisoju.github.io/)
+[![Resume/Portfolio](https://img.shields.io/badge/📄_Interactive_Resume-Download_Now-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://ashrithvelisoju.github.io/)
 </div>
 
 ---
