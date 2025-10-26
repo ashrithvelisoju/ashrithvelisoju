@@ -7,9 +7,7 @@
 > I'm a final-year **Computer Science Engineering** student with a deep passion for technology and innovation. My journey has been driven by curiosity and a strong desire to leverage cutting-edge technologies to solve real-world problems. As I transition from academics to the professional world, I'm eager to contribute to impactful projects that make a difference.
 
 <div align="center">
-  
-[![Resume/Portfolio](https://img.shields.io/badge/📄_Interactive_Resume-Download_Now-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://ashrithvelisoju.github.io/Portfolio/)
-
+  [![Resume/Portfolio](https://img.shields.io/badge/📄_Interactive_Resume-Download_Now-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://ashrithvelisoju.github.io/Portfolio/)
 </div>
 
 ---
@@ -52,7 +50,6 @@
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### AI/ML & Data Science
@@ -62,7 +59,6 @@
 <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ### Tools & Platforms
@@ -70,27 +66,9 @@
 <p>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white" />
+<img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Statistics
-
-<p>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashrithvelisoju&show_icons=true&theme=tokyonight" />
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrithvelisoju&theme=tokyonight" />
-</p>
-
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrithvelisoju&layout=compact&theme=tokyonight" />
-
----
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashrithvelisoju&theme=nord&column=7" />
 
 ---
 
@@ -98,61 +76,45 @@
 
 ### 🤖 AI & Machine Learning
 
-• **Plant Disease Detection System** - Sustainable agriculture through AI-powered disease identification  
-• **Prediction of Disease Outbreaks** - Data-driven analysis for public health insights  
-• **Hand Gesture Recognition** - Computer vision application for human-computer interaction
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Sentiment Analysis System** | Advanced NLP model for real-time sentiment analysis with 92% accuracy | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+| **Image Recognition Platform** | Deep learning-based image classification using CNNs with transfer learning | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+| **Predictive Analytics Dashboard** | ML-powered dashboard for business intelligence and forecasting | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
 
-| Project | Description | Case Study | Demo |
-|---------|-------------|------------|------|
-| Plant Disease Detection System | Sustainable agriculture through AI-powered disease identification | <a href="#"><img alt="Case Study" src="https://img.shields.io/badge/📊_Case_Study-View-blue?style=for-the-badge" /></a> | <a href="#"><img alt="Demo" src="https://img.shields.io/badge/🎬_Demo-Watch-red?style=for-the-badge" /></a> |
-| Prediction of Disease Outbreaks | Data-driven analysis for public health insights | <a href="#"><img alt="Case Study" src="https://img.shields.io/badge/📊_Case_Study-View-blue?style=for-the-badge" /></a> | <a href="#"><img alt="Demo" src="https://img.shields.io/badge/🎬_Demo-Watch-red?style=for-the-badge" /></a> |
-| Hand Gesture Recognition | Computer vision application for human-computer interaction | <a href="#"><img alt="Case Study" src="https://img.shields.io/badge/📊_Case_Study-View-blue?style=for-the-badge" /></a> | <a href="#"><img alt="Demo" src="https://img.shields.io/badge/🎬_Demo-Watch-red?style=for-the-badge" /></a> |
+---
 
 ### 🌐 Web Development
 
-• **Digital Payment System (MERN Stack)** - Full-stack payment solution with modern web technologies  
-• **Attendance Management using Face Recognition** - AI-integrated web application for automated attendance  
-• **Calorie Advisor App** - Health-focused application with nutritional insights
+| Project | Description | Links |
+|---------|-------------|-------|
+| **BugBuster** | Automated Bug Finder for JavaScript Codebases - Advanced static analysis tool that identifies common bugs, security vulnerabilities, and code quality issues in JavaScript projects | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+| **E-Commerce Platform** | Full-stack MERN application with payment gateway integration, real-time inventory management, and responsive design | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+| **Task Management System** | Collaborative project management tool with real-time updates using WebSocket, drag-and-drop interface, and team analytics | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+| **Portfolio Website Builder** | Dynamic website generator with customizable templates, SEO optimization, and CMS integration | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+
+---
 
 ### 🔐 Cybersecurity & Innovation
 
-• **Multi-stage DNA Cryptographic System** - Advanced encryption using genetic algorithms  
-• **Cross-Language Code Vulnerability Analyzer** - Security tool for multi-language codebases  
-• **Network Transformation Platform PoC** - Enterprise networking solution prototype
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Network Security Scanner** | Automated vulnerability assessment tool for network infrastructure with comprehensive reporting | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+| **Secure Authentication System** | Multi-factor authentication implementation with biometric integration and OAuth 2.0 support | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+| **Encryption Tool Suite** | End-to-end encryption utilities for file and message security with quantum-resistant algorithms | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
 
 ---
 
-## 🎯 Project Demos & Showcases
+## 📊 GitHub Statistics
 
-🎬 Demo videos and interactive showcases coming soon!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrithvelisoju&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrithvelisoju&theme=radical" alt="GitHub Streak" />
+</div>
 
----
-
-## 📈 Impact & Results Showcase
-
-| Metric | Achievement |
-|--------|-------------|
-| 🚀 Hours Saved | 500+ through workflow automation |
-| 🌟 Open Source Contributions | 25+ repositories contributed to |
-| 👥 Developers Mentored | 10+ junior developers guided |
-| 🏆 Projects Completed | 15+ full-stack applications |
-| 📊 Data Points Analyzed | 1M+ in ML projects |
-
----
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrithvelisoju&theme=tokyo-night" />
-
----
-
-## 🎯 Current Focus
-
-• 🔭 Working on advanced machine learning projects  
-• 🌱 Learning cloud technologies and DevOps practices  
-• 👯 Looking to collaborate on innovative AI/ML projects  
-• 🤝 Open to internship and full-time opportunities  
-• 💡 Passionate about contributing to open-source projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrithvelisoju&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
@@ -173,7 +135,8 @@ Are you working on innovative projects that could change the world? I'm always l
 • 💻 I love solving complex algorithms and data structures problems  
 • 🎮 Gaming enthusiast who enjoys strategic and puzzle games  
 • 📚 Continuous learner who stays updated with latest tech trends  
-• 🎯 Always excited about emerging technologies and their potential applications
+• 🎯 Always excited about emerging technologies and their potential applications  
+• 💡 Passionate about contributing to open-source projects
 
 ---
 
