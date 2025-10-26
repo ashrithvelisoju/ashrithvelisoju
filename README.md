@@ -7,9 +7,8 @@
 > I'm a final-year **Computer Science Engineering** student with a deep passion for technology and innovation. My journey has been driven by curiosity and a strong desire to leverage cutting-edge technologies to solve real-world problems. As I transition from academics to the professional world, I'm eager to contribute to impactful projects that make a difference.
 
 <div align="center">
-  <a href="https://ashrithvelisoju.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/📄_Interactive_Resume-Download_Now-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume/Portfolio" />
-  </a>
+    
+  [![Resume/Portfolio](https://img.shields.io/badge/📄_Interactive_Resume-Download_Now-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://ashrithvelisoju.github.io/Portfolio/)
 </div>
 
 ---
@@ -78,21 +77,35 @@
 
 ## 🔥 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **EduLearn Platform** | An AI-powered EdTech platform for personalized learning experiences | React, Node.js, MongoDB, TensorFlow | [Case Study](https://github.com/ashrithvelisoju/Edulearn) \| [Demo](https://edulearn-v1.vercel.app/) |
-| **Sentiment Analysis Tool** | Real-time sentiment analyzer for social media with advanced NLP | Python, Flask, NLTK, scikit-learn | [Case Study](https://github.com/ashrithvelisoju/sentiment-analysis) \| [Demo](https://sentiment-analysis-ashrith.vercel.app/) |
-| **Portfolio Website** | Interactive portfolio showcasing projects and technical skills | HTML5, CSS3, JavaScript, Bootstrap | [Case Study](https://github.com/ashrithvelisoju/Portfolio) \| [Demo](https://ashrithvelisoju.github.io/Portfolio/) |
-| **Task Management App** | Collaborative task tracking with real-time updates | React, Firebase, Material-UI | [Case Study](https://github.com/ashrithvelisoju/task-manager) \| [Demo](https://task-manager-ashrith.vercel.app/) |
+### 🤖 AI & Machine Learning
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Sentiment Analysis System** | Advanced NLP model for real-time sentiment analysis with 92% accuracy | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+| **Image Recognition Platform** | Deep learning-based image classification using CNNs with transfer learning | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+| **Predictive Analytics Dashboard** | ML-powered dashboard for business intelligence and forecasting | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
 
 ---
 
-## 🌟 Highlighted Achievements
+### 🌐 Web Development
 
-• Published research on **AI-driven predictive analytics** in peer-reviewed journals  
-• Developed an **automated workflow system** reducing manual tasks by 40%  
-• Active contributor to **open-source projects** with 50+ contributions  
-• Mentored **20+ students** in web development and machine learning
+| Project | Description | Links |
+|---------|-------------|-------|
+| **BugBuster** | Automated Bug Finder for JavaScript Codebases - Advanced static analysis tool that identifies common bugs, security vulnerabilities, and code quality issues in JavaScript projects | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+| **E-Commerce Platform** | Full-stack MERN application with payment gateway integration, real-time inventory management, and responsive design | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+| **Task Management System** | Collaborative project management tool with real-time updates using WebSocket, drag-and-drop interface, and team analytics | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+| **Portfolio Website Builder** | Dynamic website generator with customizable templates, SEO optimization, and CMS integration | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+
+---
+
+
+### 🔐 Cybersecurity & Innovation
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Network Security Scanner** | Automated vulnerability assessment tool for network infrastructure with comprehensive reporting | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+| **Secure Authentication System** | Multi-factor authentication implementation with biometric integration and OAuth 2.0 support | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
+| **Encryption Tool Suite** | End-to-end encryption utilities for file and message security with quantum-resistant algorithms | [Case Study](https://github.com/ashrithvelisoju) • [Demo](https://github.com/ashrithvelisoju) |
 
 ---
 
@@ -125,10 +138,7 @@
 
 ---
 
-<div align="center">
-  <i>"Innovation distinguishes between a leader and a follower." – Steve Jobs</i>
-</div>
+## 💫 *"The best way to predict the future is to create it. Through code, innovation, and relentless curiosity, we build tomorrow's solutions today."* 💫
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashrithvelisoju&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=600&lines=Turning+Ideas+Into+Reality;Through+Code+and+Innovation;Building+The+Future%2C+One+Commit+At+A+Time" alt="Inspiring Quote Typing SVG" />
+
